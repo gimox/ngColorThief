@@ -5,6 +5,7 @@
   "authors": [
     "Ian Murray <me@ianmurray.me>"
   ],
+  "main": "angular-colorthief.min.js",
   "description": "ColorThief wrapper for AngularJS",
   "keywords": [
     "colorthief",
